@@ -1,0 +1,6 @@
+language: csharp
+
+script:
+
+
+  - xbuild /p:Configuration=Debug WebSite1\WebSite1(1).sln
